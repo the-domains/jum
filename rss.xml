@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jum]]></title>
-        <description><![CDATA[jum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Live Together. Live Strong.]]></title>
+        <description><![CDATA[Live Together. Live Strong.]]></description>
+        <link>https://thegrid.ai/jum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 01:24:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 02:14:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jum/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Brain Strong, Live Strong </p>]]></description>
-            <link>undefined0afb06a7-e416-4798-bc78-61d094a78045/index.html</link>
+            <link>https://thegrid.ai/jum/0afb06a7-e416-4798-bc78-61d094a78045/index.html</link>
             <guid isPermaLink="false">0afb06a7-e416-4798-bc78-61d094a78045</guid>
-            <pubDate>Tue, 29 Mar 2016 01:24:51 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 02:14:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
